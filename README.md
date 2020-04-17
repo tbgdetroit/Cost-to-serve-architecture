@@ -13,11 +13,7 @@ The resolution of these complexities is found in a comprehensive architectural a
   2. Create an agnostic data structure that is independent of the choice of calculation software 
   3. Develop an institutionalized, maintainable process to capture ongoing value 
   4. Provide comprehensive audit‐ability to the source costs 
-  5. Implement a layered, separation of concerns approach that ensures the solution is:
-      a. Robust 
-      b. Maintainable  
-      c. Adaptable 
-      d. Reusable    
+  5. Implement a layered, separation of concerns approach that ensures the solution is, a) Robust, b) Maintainable, c) Adaptable, and; d) Reusable    
   
 This technical document is structured as follows:    
 
